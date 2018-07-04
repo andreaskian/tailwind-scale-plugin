@@ -1,0 +1,1 @@
+# tailwind-scale-plugin
