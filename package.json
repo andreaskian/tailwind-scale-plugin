@@ -1,0 +1,29 @@
+{
+  "name": "tailwind-scale-plugin",
+  "version": "0.0.1",
+  "description": "A plugin for Tailwind CSS that adds scale utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreaskian/tailwind-scale-plugin.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind-css",
+    "tailwindcss-plugin"
+  ],
+  "author": "Andreas Kian <andreas.kian@gmail.com> (https://andreaskian.dk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreaskian/tailwind-scale-plugin/issues"
+  },
+  "homepage": "https://github.com/andreaskian/tailwind-scale-plugin#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.6.1",
+    "lodash": "^4.17.5"
+  }
+}
